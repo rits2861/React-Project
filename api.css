@@ -1,0 +1,44 @@
+.user-list{
+  display: flex;
+  justify-content: space-around;
+  margin: 0;
+  padding: 10px;
+  list-style: none;
+  border: 1px solid black;
+
+}
+.user-list-head{
+  font-size: 20px;
+  font-weight: 800;
+}
+.List{
+  display: flex;
+  width: 400px;
+  justify-content: space-around;
+  list-style: none;
+  
+
+}
+.add{
+  margin-left: 70px;
+  color: rgb(213, 80, 246);
+   font-weight: bold;
+
+}
+.list{
+  margin-right: 70px;
+  color: rgb(213, 80, 246);
+ font-weight: bold;
+}
+.username
+{
+  border-radius: 3px;
+  border: 1px solid rgb(5, 0, 0);
+  margin: 2px;
+  padding: 4px;
+}
+.del{
+  border: 1px solid rgb(5, 0, 0);
+  border-radius: 3px;
+  background-color: rgb(193, 193, 193);
+  margin: 0px;}
